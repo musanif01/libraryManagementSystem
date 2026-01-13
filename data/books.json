@@ -1,0 +1,162 @@
+{"books": [
+  {
+    "id": 1,
+    "name": "Shadows of Tomorrow",
+    "author": "A. R. Bennett",
+    "genre": "Science Fiction",
+    "price": 14.99,
+    "publisher": "Starlit Press"
+  },
+  {
+    "id": 2,
+    "name": "The Last Orchard",
+    "author": "Maya L. Ortiz",
+    "genre": "Historical Fiction",
+    "price": 12.5,
+    "publisher": "Riverstone Books"
+  },
+  {
+    "id": 3,
+    "name": "Code & Coffee",
+    "author": "D. K. Patel",
+    "genre": "Technology",
+    "price": 19.99,
+    "publisher": "DevHouse"
+  },
+  {
+    "id": 4,
+    "name": "Whispering Pines",
+    "author": "Elena M. Cruz",
+    "genre": "Mystery",
+    "price": 9.95,
+    "publisher": "Northview Publishing"
+  },
+  {
+    "id": 5,
+    "name": "The Art of Quiet",
+    "author": "Jonah R. Hale",
+    "genre": "Self-Help",
+    "price": 11.0,
+    "publisher": "MindSpring"
+  },
+  {
+    "id": 6,
+    "name": "Ocean of Glass",
+    "author": "Priya N. Iyer",
+    "genre": "Fantasy",
+    "price": 16.75,
+    "publisher": "Bluewave Books"
+  },
+  {
+    "id": 7,
+    "name": "The Silent Verdict",
+    "author": "Markus E. Lang",
+    "genre": "Thriller",
+    "price": 13.5,
+    "publisher": "Redstone"
+  },
+  {
+    "id": 8,
+    "name": "Streets of Gold",
+    "author": "Aisha K. Mansoor",
+    "genre": "Biography",
+    "price": 15.0,
+    "publisher": "Hearth & Home"
+  },
+  {
+    "id": 9,
+    "name": "Fragments of Light",
+    "author": "G. W. Han",
+    "genre": "Poetry",
+    "price": 8.25,
+    "publisher": "Lumen Editions"
+  },
+  {
+    "id": 10,
+    "name": "City of Threads",
+    "author": "Rina S. Omar",
+    "genre": "Urban Fantasy",
+    "price": 17.99,
+    "publisher": "Ironclad Books"
+  },
+  {
+    "id": 11,
+    "name": "A Map for Lost Things",
+    "author": "Evan J. Miller",
+    "genre": "Adventure",
+    "price": 10.5,
+    "publisher": "Trailhead Press"
+  },
+  {
+    "id": 12,
+    "name": "Beneath the Red Moon",
+    "author": "Sofia D. Rossi",
+    "genre": "Romance",
+    "price": 9.99,
+    "publisher": "Lovers' Lane"
+  },
+  {
+    "id": 13,
+    "name": "Principles of Design",
+    "author": "K. L. Moreno",
+    "genre": "Art & Design",
+    "price": 22.0,
+    "publisher": "Studio Press"
+  },
+  {
+    "id": 14,
+    "name": "The Binary Orchard",
+    "author": "Noah V. Greene",
+    "genre": "Speculative Fiction",
+    "price": 18.49,
+    "publisher": "FableWorks"
+  },
+  {
+    "id": 15,
+    "name": "Modern Home Cooking",
+    "author": "Leah T. Nguyen",
+    "genre": "Cookbook",
+    "price": 24.0,
+    "publisher": "Kitchen & Co."
+  },
+  {
+    "id": 16,
+    "name": "History in Small Things",
+    "author": "Dr. Omar S. Khan",
+    "genre": "History",
+    "price": 20.0,
+    "publisher": "Epoch Press"
+  },
+  {
+    "id": 17,
+    "name": "Neon Summer",
+    "author": "Hannah P. Li",
+    "genre": "Young Adult",
+    "price": 9.5,
+    "publisher": "Brightline"
+  },
+  {
+    "id": 18,
+    "name": "Quantum Gardens",
+    "author": "Dr. Felix R. Morgan",
+    "genre": "Non-Fiction",
+    "price": 21.75,
+    "publisher": "Arcadia"
+  },
+  {
+    "id": 19,
+    "name": "The Locksmith's Daughter",
+    "author": "M. E. Sorensen",
+    "genre": "Mystery",
+    "price": 12.99,
+    "publisher": "Old Mill Books"
+  },
+  {
+    "id": 20,
+    "name": "Paths of Light",
+    "author": "Ibrahim Q. Saleh",
+    "genre": "Philosophy",
+    "price": 14.0,
+    "publisher": "Wisdom House"
+  }
+]}

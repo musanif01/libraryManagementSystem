@@ -1,0 +1,223 @@
+{"users": [
+  {
+    "id": 1,
+    "name": "Liam",
+    "surname": "Turner",
+    "email": "liam.turner@example.com",
+    "issuedBooks": [3],
+    "issuedDate": ["2025-11-22"],
+    "returnDate": ["2026-01-05"],
+    "SubscriptionType": "Premium",
+    "subscriptionDate": "2024-06-15"
+  },
+  {
+    "id": 2,
+    "name": "Olivia",
+    "surname": "Hayes",
+    "email": "olivia.hayes@example.com",
+    "issuedBooks": [],
+    "issuedDate": [],
+    "returnDate": [],
+    "SubscriptionType": "Basic",
+    "subscriptionDate": "2023-09-03"
+  },
+  {
+    "id": 3,
+    "name": "Noah",
+    "surname": "Patel",
+    "email": "noah.patel@example.com",
+    "issuedBooks": [6, 14],
+    "issuedDate": ["2025-12-10", "2025-12-20"],
+    "returnDate": ["2026-01-10", "2026-01-20"],
+    "SubscriptionType": "Standard",
+    "subscriptionDate": "2025-01-08"
+  },
+  {
+    "id": 4,
+    "name": "Emma",
+    "surname": "Rodriguez",
+    "email": "emma.rodriguez@example.com",
+    "issuedBooks": [12],
+    "issuedDate": ["2025-12-01"],
+    "returnDate": ["2026-01-01"],
+    "SubscriptionType": "Student",
+    "subscriptionDate": "2024-02-14"
+  },
+  {
+    "id": 5,
+    "name": "Oliver",
+    "surname": "Chen",
+    "email": "oliver.chen@example.com",
+    "issuedBooks": [],
+    "issuedDate": [],
+    "returnDate": [],
+    "SubscriptionType": "Basic",
+    "subscriptionDate": "2023-12-20"
+  },
+  {
+    "id": 6,
+    "name": "Ava",
+    "surname": "Morgan",
+    "email": "ava.morgan@example.com",
+    "issuedBooks": [1, 19],
+    "issuedDate": ["2025-10-30", "2025-12-05"],
+    "returnDate": ["2025-11-30", "2026-01-05"],
+    "SubscriptionType": "Premium",
+    "subscriptionDate": "2022-08-11"
+  },
+  {
+    "id": 7,
+    "name": "William",
+    "surname": "Singh",
+    "email": "william.singh@example.com",
+    "issuedBooks": [8],
+    "issuedDate": ["2025-12-18"],
+    "returnDate": ["2026-01-18"],
+    "SubscriptionType": "Standard",
+    "subscriptionDate": "2024-11-05"
+  },
+  {
+    "id": 8,
+    "name": "Sophia",
+    "surname": "Kim",
+    "email": "sophia.kim@example.com",
+    "issuedBooks": [10],
+    "issuedDate": ["2025-12-21"],
+    "returnDate": ["2026-01-21"],
+    "SubscriptionType": "Premium",
+    "subscriptionDate": "2025-07-19"
+  },
+  {
+    "id": 9,
+    "name": "James",
+    "surname": "Nguyen",
+    "email": "james.nguyen@example.com",
+    "issuedBooks": [],
+    "issuedDate": [],
+    "returnDate": [],
+    "SubscriptionType": "Basic",
+    "subscriptionDate": "2021-05-29"
+  },
+  {
+    "id": 10,
+    "name": "Isabella",
+    "surname": "Khan",
+    "email": "isabella.khan@example.com",
+    "issuedBooks": [7, 4],
+    "issuedDate": ["2025-12-02", "2025-11-25"],
+    "returnDate": ["2026-01-02", "2025-12-25"],
+    "SubscriptionType": "Student",
+    "subscriptionDate": "2024-03-02"
+  },
+  {
+    "id": 11,
+    "name": "Henry",
+    "surname": "Adams",
+    "email": "henry.adams@example.com",
+    "issuedBooks": [2],
+    "issuedDate": ["2025-09-15"],
+    "returnDate": ["2025-10-15"],
+    "SubscriptionType": "Standard",
+    "subscriptionDate": "2023-04-10"
+  },
+  {
+    "id": 12,
+    "name": "Mia",
+    "surname": "Gomez",
+    "email": "mia.gomez@example.com",
+    "issuedBooks": [13],
+    "issuedDate": ["2025-08-01"],
+    "returnDate": ["2025-09-01"],
+    "SubscriptionType": "Basic",
+    "subscriptionDate": "2022-01-05"
+  },
+  {
+    "id": 13,
+    "name": "Alexander",
+    "surname": "Brown",
+    "email": "alex.brown@example.com",
+    "issuedBooks": [],
+    "issuedDate": [],
+    "returnDate": [],
+    "SubscriptionType": "Premium",
+    "subscriptionDate": "2020-10-12"
+  },
+  {
+    "id": 14,
+    "name": "Charlotte",
+    "surname": "Wilson",
+    "email": "charlotte.wilson@example.com",
+    "issuedBooks": [15],
+    "issuedDate": ["2025-11-05"],
+    "returnDate": ["2025-12-05"],
+    "SubscriptionType": "Standard",
+    "subscriptionDate": "2023-06-22"
+  },
+  {
+    "id": 15,
+    "name": "Michael",
+    "surname": "Singh",
+    "email": "michael.singh@example.com",
+    "issuedBooks": [11],
+    "issuedDate": ["2025-12-12"],
+    "returnDate": ["2026-01-12"],
+    "SubscriptionType": "Premium",
+    "subscriptionDate": "2024-04-18"
+  },
+  {
+    "id": 16,
+    "name": "Amelia",
+    "surname": "Martinez",
+    "email": "amelia.martinez@example.com",
+    "issuedBooks": [5],
+    "issuedDate": ["2025-11-30"],
+    "returnDate": ["2025-12-30"],
+    "SubscriptionType": "Student",
+    "subscriptionDate": "2025-02-01"
+  },
+  {
+    "id": 17,
+    "name": "Daniel",
+    "surname": "Lopez",
+    "email": "daniel.lopez@example.com",
+    "issuedBooks": [16, 18],
+    "issuedDate": ["2025-10-01", "2025-12-15"],
+    "returnDate": ["2025-11-01", "2026-01-15"],
+    "SubscriptionType": "Standard",
+    "subscriptionDate": "2023-01-20"
+  },
+  {
+    "id": 18,
+    "name": "Evelyn",
+    "surname": "Foster",
+    "email": "evelyn.foster@example.com",
+    "issuedBooks": [],
+    "issuedDate": [],
+    "returnDate": [],
+    "SubscriptionType": "Basic",
+    "subscriptionDate": "2024-09-09"
+  },
+  {
+    "id": 19,
+    "name": "Matthew",
+    "surname": "Ng",
+    "email": "matthew.ng@example.com",
+    "issuedBooks": [9],
+    "issuedDate": ["2025-12-25"],
+    "returnDate": ["2026-01-25"],
+    "SubscriptionType": "Premium",
+    "subscriptionDate": "2021-11-30"
+  },
+  {
+    "id": 20,
+    "name": "Harper",
+    "surname": "Wright",
+    "email": "harper.wright@example.com",
+    "issuedBooks": [20],
+    "issuedDate": ["2025-12-08"],
+    "returnDate": ["2026-01-08"],
+    "SubscriptionType": "Standard",
+    "subscriptionDate": "2022-07-14"
+  }
+]
+}
